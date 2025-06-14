@@ -1,6 +1,7 @@
 Data Jobs Salaries Dashboard-Tableau
 
-Screenshot
+<img width="1044" alt="image" src="https://github.com/user-attachments/assets/e14b2601-6068-4d28-9afa-823736bf9dee" />
+
 
 About the Project:
 
